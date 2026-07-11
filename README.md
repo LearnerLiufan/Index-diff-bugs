@@ -26,5 +26,5 @@ bug list detected by Index-diff
 | 21 | TiDB    | v8.5.4  | [TiDB#64940](https://github.com/pingcap/tidb/issues/64940)  | Confirmed |
 | 22 | TiDB    | v8.5.4  | [TiDB#65161](https://github.com/pingcap/tidb/issues/65161)  | Confirmed |
 | 23 | TiDB    | v8.5.4  | [TiDB#65976](https://github.com/pingcap/tidb/issues/65976)  | Confirmed |
-| 24 | MairaDB | 12.1.2  | [MairaDB#39843](https://jira.mariadb.org/browse/MDEV-39843) | Open      |
-| 24 | MairaDB | 12.1.2  | [MairaDB#39844](https://jira.mariadb.org/browse/MDEV-39844) | Open      |
+| 24 | MairaDB | 12.1.2  | [MairaDB#39843](https://jira.mariadb.org/browse/MDEV-39843) | Confirmed |
+| 25 | MairaDB | 12.1.2  | [MairaDB#39844](https://jira.mariadb.org/browse/MDEV-39844) | Confirmed |
